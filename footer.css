@@ -1,0 +1,37 @@
+.footer-wrap {
+    clear: both;
+    width: 100%;
+    font-size: 95%;
+    padding: 20px 0;
+    text-align: left;  
+    background: url(MarketPlace-images/footer-bottom.jpg) no-repeat center bottom;  
+  }
+  .footer-wrap a {
+    text-decoration: none;
+    color: #666666;
+    font-weight: bold;
+  }
+  .footer-wrap a:hover {
+    color: #000;  
+  }
+  .footer-wrap p {
+    padding: 10px 0;
+  }
+  .footer-wrap h2 {
+    color: #666666;
+    margin: 0;
+    padding: 0 10px; 
+  }
+  
+  /* footer */
+  .footer {
+    clear: both;
+    color: #666;  
+    margin: 0 auto 10px auto; 
+    width: 100%;
+    padding: 5px 0;
+    text-align: center;
+    background-color: #FF5733;
+    border-top: 1px solid #F2F2F2;  
+  }
+  
